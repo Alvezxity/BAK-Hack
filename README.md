@@ -3,6 +3,19 @@
 Welcome to the ultimate collection of userscripts and cheats for **Blooket** and **Kahoot**!  
 This repository provides powerful scripts for almost every Blooket game mode, plus a dedicated Kahoot hack that reveals answers in real time.
 
+---
+
+> ⚠️ **SERIOUS WARNING: IF YOU PAID FOR THESE SCRIPTS, YOU HAVE BEEN SCAMMED!**  
+> These scripts are **100% free and open source**.  
+> **If anyone charged you money for access, you are a victim of fraud.**  
+>
+> - **Demand an immediate refund** from the seller or payment platform.  
+> - **Report the scammer** to relevant authorities and platforms (such as PayPal, Discord, etc).  
+> - **Protect your accounts and personal information**—scammers may attempt further fraud.  
+>
+> These scripts are made **for the community, by the community**. Paying for them is never required.  
+> **Stay safe and do not support scammers.**
+>
 > **Disclaimer:**  
 > These scripts are for educational purposes only.  
 > Using them in violation of platform rules may result in bans or other consequences.  
@@ -27,8 +40,6 @@ Unlock features, cheats, and GUIs for nearly all Blooket game modes!
 
 - **[K Gui](KGui.js):**  
   A fresh GUI with new features and design improvements.
-
----
 
 ## 🎮 Game Mode Cheats
 
@@ -98,13 +109,6 @@ Developed by [Alvezxity](https://github.com/Alvezxity).
 1. Go to [kahoot.it](https://kahoot.it/)
 2. Join a game as usual (Game ID required).
 3. The userscript will automatically activate and display the correct answers.
-
----
-
-## ⚠️ DISCLAIMER
-
-**I, THE AUTHOR (ALVEZXITY), AM NOT RESPONSIBLE FOR ANY CONSEQUENCES, PUNISHMENTS, OR ACTIONS TAKEN AGAINST USERS FOR CHEATING OR MISUSE OF THIS SCRIPT. USE AT YOUR OWN RISK.  
-THIS IS ONLY A PROJECT, DO NOT USE UNDER CONDITIONS WHERE CHEATING IS PROHIBITED.**
 
 ---
 
